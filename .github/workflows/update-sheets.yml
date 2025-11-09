@@ -1,4 +1,4 @@
-name: Update Sheets
+name: update-sheets
 
 on:
   schedule:
