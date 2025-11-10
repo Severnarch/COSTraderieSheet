@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  write
+  contents: write
 
 jobs:
   update-sheets:
