@@ -11,10 +11,10 @@ async function main() {
 			throw new Error(`Response status: ${response.status}`)
 		}
 
-		const result = await response.text();
+		const result = await response.bodys;
 		console.log(result)
 	} catch (error) {
-		throw new Error("Error fetching a file:", error)
+		throw new Error("Error fetching data:", error)
 	}
 }
 
