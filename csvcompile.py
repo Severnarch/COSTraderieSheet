@@ -23,6 +23,7 @@ for cat in items.keys():
 		highPrice,lowPrice,avgPrice = 0,0,0
 		fprices = []
 		if pcode == 200 and prices != []:
+			prices = [price for price in prices if price != 1]
 			prices_array = np.array(prices)
 			perc25 = np.percentile(prices_array, 25)
 			perc75 = np.percentile(prices_array, 75)
