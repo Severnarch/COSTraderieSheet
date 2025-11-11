@@ -21,6 +21,7 @@ for cat in items.keys():
 		print(f"Fetching prices for item '{item[0]}'")
 		pcode, prices = fetcher.fetch_prices(item[1])
 		highPrice,lowPrice,avgPrice = 0,0,0
+		fprices = []
 		if pcode == 200 and prices != []:
 			prices_array = np.array(prices)
 			perc25 = np.percentile(prices_array, 25)
