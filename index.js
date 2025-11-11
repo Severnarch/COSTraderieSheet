@@ -11,7 +11,7 @@ async function main() {
 			throw new Error(`Response status: ${response.status}`)
 		}
 
-		const result = await response.bodys;
+		const result = await response.body;
 		console.log(result)
 	} catch (error) {
 		throw new Error("Error fetching data:", error)
