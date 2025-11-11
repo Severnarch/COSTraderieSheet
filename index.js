@@ -6,12 +6,12 @@ async function main() {
 	var itemsSheet = {};
 
 	try {
-		const itemsResponse = await fetch(sheetsUrl+"items.csv");
+		const response = await fetch(sheetsUrl+"items.csv");
 		if (!response.ok) {
 			throw new Error(`Response status: ${response.status}`)
 		}
 
-		const result = await response.body;
+		const result = await response.text();
 		console.log(result)
 	} catch (error) {
 		throw new Error("Error fetching data:", error)
