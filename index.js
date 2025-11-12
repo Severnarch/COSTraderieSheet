@@ -9,6 +9,7 @@ function camelToTitle(val) {
 function formatString(val) {
 	val = val.replace(/\w[a-z]*/g, function(x){return x.charAt(0).toUpperCase()+x.substr(1).toLowerCase();});
 	val = val.charAt(0).toUpperCase() + val.slice(1)
+	val = val.replace("Avg", "Average")
 	return val;
 }
 
@@ -27,6 +28,14 @@ async function main() {
 		if (result) {
 			rows = result.split("\r\n");
 			headers = rows[0].split(",");
+
+			excludedHeaders = ["id", "rawPricesCount", "filterPricesCount"]
+			for (i in excludedHeaders) {
+				if (headers.includes(excludedHeaders[i])) {
+					headers.pop(headers.indexOf(excludedHeaders[i]))
+				}
+			}
+
 			for (i = 1; i < rows.length; i++) {
 				if (rows[i].length > 0) {
 					const robj = rows[i].split(",");
