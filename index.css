@@ -23,13 +23,13 @@ th, td {
 th {
   background-color: rgb(180, 213, 255);
   border-color: rgb(132, 175, 231);
-  position: sticky;
-  top: 0;
 }
 tr:nth-child(odd) td {
   background-color: rgb(195, 202, 212);
   border-color: rgb(155, 167, 185);
 }
 tr:has(th) {
-  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4)
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+  position: sticky;
+  top: 0;
 }
