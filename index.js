@@ -34,7 +34,7 @@ async function main() {
 					for (j = 0; j < robj.length; j++) {
 						obj[headers[j]] = robj[j];
 					}
-					itemsSheet.append(obj);
+					itemsSheet.push(obj);
 				}
 			}
 		}
