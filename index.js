@@ -29,13 +29,6 @@ async function main() {
 			rows = result.split("\r\n");
 			headers = rows[0].split(",");
 
-			excludedHeaders = ["id", "rawPricesCount", "filterPricesCount"]
-			for (i in excludedHeaders) {
-				if (headers.includes(excludedHeaders[i])) {
-					headers.splice(headers.indexOf(excludedHeaders[i]), 1)
-				}
-			}
-
 			for (i = 1; i < rows.length; i++) {
 				if (rows[i].length > 0) {
 					const robj = rows[i].split(",");
@@ -56,7 +49,11 @@ async function main() {
 		var tableElement = document.createElement("table");
 
 		var headerRow = document.createElement("tr");
+		var excludedHeaders = ["id", "rawPricesCount", "filterPricesCount"]
 		for (i in headers) {
+			if (excludedHeaders.includes(headers[i])) {
+				continue;
+			}
 			var headerCell = document.createElement("th");
 			headerCell.innerText = camelToTitle(headers[i]);
 			headerRow.appendChild(headerCell);
@@ -67,6 +64,9 @@ async function main() {
 			var itemRow = document.createElement("tr");
 
 			for (j in headers) {
+				if (excludedHeaders.includes(headers[j])) {
+					continue;
+				}
 				var itemCell = document.createElement("td");
 				itemCell.innerText = formatString(itemsSheet[i][headers[j]])
 				itemRow.appendChild(itemCell);
