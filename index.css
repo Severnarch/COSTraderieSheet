@@ -10,6 +10,12 @@ body {
 #table-name {
   color: lightgray;
 }
+#table-holder {
+  border-bottom: 1px solid rgb(209, 209, 209);
+  width: fit-content;
+  max-height: 500px;
+  overflow: scroll;
+}
 table {
   border-spacing: 0;
 }
