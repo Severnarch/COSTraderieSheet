@@ -32,7 +32,7 @@ async function main() {
 			excludedHeaders = ["id", "rawPricesCount", "filterPricesCount"]
 			for (i in excludedHeaders) {
 				if (headers.includes(excludedHeaders[i])) {
-					headers.pop(headers.indexOf(excludedHeaders[i]))
+					headers.splice(headers.indexOf(excludedHeaders[i]), 1)
 				}
 			}
 
