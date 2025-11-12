@@ -116,7 +116,7 @@ def fetch_prices(item):
 					if isValid:
 						for price in olist["prices"]:
 							if price["type"].lower() == "currency":
-								prices.append(price["quantity"])
+								prices.append(int(price["quantity"] / olist["amount"]))
 			status = 200
 		else:
 			status = request.status_code
