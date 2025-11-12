@@ -30,3 +30,6 @@ tr:nth-child(odd) td {
   background-color: rgb(195, 202, 212);
   border-color: rgb(155, 167, 185);
 }
+tr:has(th) {
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4)
+}
