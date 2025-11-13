@@ -7,7 +7,7 @@ function camelToTitle(val) {
 	return val;
 }
 function formatString(val) {
-	val = val.replace(/\w[a-z]*/g, function(x){return x.charAt(0).toUpperCase()+x.substr(1).toLowerCase();});
+	val = val.replace(/\s[a-z]*/g, function(x){return x.charAt(0).toUpperCase()+x.substr(1).toLowerCase();});
 	val = val.charAt(0).toUpperCase() + val.slice(1)
 	val = val.replace("Avg", "Average")
 	return val;
