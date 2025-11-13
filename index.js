@@ -12,7 +12,7 @@ function formatString(val) {
 	}
 	val = val.replace(/\s[a-z]*/g, function(x){return x.charAt(0).toUpperCase()+x.substr(1).toLowerCase();});
 	val = val.charAt(0).toUpperCase() + val.slice(1)
-	val = val.replace("Avg", "Average")
+	val = val.replace(/\bAvg\b/i, "Average")
 	return val;
 }
 
