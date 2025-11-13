@@ -7,6 +7,9 @@ function camelToTitle(val) {
 	return val;
 }
 function formatString(val) {
+	if (/^[a-z]+(?:[A-Z][a-z]*)+$/.test(val)) {
+		val = camelToTitle(val)
+	}
 	val = val.replace(/\s[a-z]*/g, function(x){return x.charAt(0).toUpperCase()+x.substr(1).toLowerCase();});
 	val = val.charAt(0).toUpperCase() + val.slice(1)
 	val = val.replace("Avg", "Average")
@@ -55,7 +58,7 @@ async function main() {
 				continue;
 			}
 			var headerCell = document.createElement("th");
-			headerCell.innerText = camelToTitle(headers[i]);
+			headerCell.innerText = formatString(headers[i]);
 			headerRow.appendChild(headerCell);
 		}
 		tableElement.appendChild(headerRow);
