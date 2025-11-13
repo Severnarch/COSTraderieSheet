@@ -15,7 +15,7 @@ body {
   width: fit-content;
   max-height: 500px;
   overflow-x: auto;
-  overflow-y: scroll;
+  overflow-y: overlay;
 }
 table {
   width: 100%;
