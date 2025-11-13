@@ -14,9 +14,11 @@ body {
   border-bottom: 1px solid rgb(209, 209, 209);
   width: fit-content;
   max-height: 500px;
-  overflow: scroll;
+  overflow-x: auto;
+  overflow-y: scroll;
 }
 table {
+  width: 100%;
   border-spacing: 0;
 }
 th, td {
