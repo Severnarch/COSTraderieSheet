@@ -18,6 +18,7 @@ class Price():
 		isCurrency (bool): Whether the price is a currency (True) or item (False)
 		properties (list): Only if item; properties of the item (such as traits)
 	"""
+	
 	id: int
 	quantity: int
 	name: str
