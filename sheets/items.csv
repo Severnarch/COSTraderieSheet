@@ -1,61 +1,61 @@
 name,category,id,highPrice,lowPrice,avgPrice,rawPricesCount,filterPricesCount
 Adharcaiin,creatures,2862708229,11000,2000,5800,5,5
-Aereis,creatures,1053654591,300000,10000,143857,14,14
+Aereis,creatures,1053654591,300000,10000,126167,12,12
 Aesho,creatures,1877935337,200,100,133,3,3
 Aesmir,creatures,1336427439,800,750,788,6,4
-Aholai,creatures,1006063086,150,150,150,1,1
+Aholai,creatures,1006063086,150,100,125,2,2
 Ahri'Tahmuk,creatures,751456629,15000,15000,15000,1,1
-Aidoneiscus,creatures,4043202859,8000,5000,6333,3,3
-Akorbik,creatures,3279035000,10000,4000,7000,2,2
+Aidoneiscus,creatures,4043202859,8000,1000,5000,4,4
+Akorbik,creatures,3279035000,10000,3500,5833,3,3
 Aleicuda,creatures,3700571380,6000,6000,6000,2,2
 Alkaksu,creatures,1624198866,50,40,45,2,2
-Allifu,creatures,551173904,2500,200,1010,39,35
+Allifu,creatures,551173904,2500,200,1028,42,38
 Altulis,creatures,340218685,2250,2250,2250,1,1
-Amolis,creatures,3058329684,1500,500,1117,7,6
+Amolis,creatures,3058329684,1500,500,1171,8,7
 Angelic Warden,creatures,3951852940,15000,3500,7682,13,11
-Ani,creatures,222243358,3000,899,1837,8,8
+Ani,creatures,222243358,2500,899,1712,9,8
 Anutill,creatures,3740412320,0,0,0,0,0
-Aolenus,creatures,535193742,100000,13400,66209,37,37
-Apofuex,creatures,1242434713,1500,500,833,3,3
-Aqoxturumox,creatures,465386885,8000,4000,6231,15,13
-Arachyu,creatures,2884178476,9000,7000,7833,3,3
-Arcabatur,creatures,2222329910,8200,6500,7400,3,3
+Aolenus,creatures,535193742,100000,13400,65520,37,37
+Apofuex,creatures,1242434713,1500,500,1000,2,2
+Aqoxturumox,creatures,465386885,8000,3000,5833,19,17
+Arachyu,creatures,2884178476,7500,7000,7333,4,3
+Arcabatur,creatures,2222329910,8200,8200,8200,4,3
 Archalium,creatures,3328079932,1700,1500,1600,2,2
-Archinax,creatures,1601599593,500,100,300,2,2
+Archinax,creatures,1601599593,100,100,100,1,1
 Ardor Warden,creatures,1346141351,10500,2810,6387,14,14
-Arkmetta,creatures,3700767269,14000,14000,14000,1,1
+Arkmetta,creatures,3700767269,20000,14000,17000,2,2
 Arrainoa,creatures,225009181,100,30,72,5,5
 Arsonos,creatures,945772094,200,200,200,2,2
 Artikauk,creatures,1283545358,0,0,0,0,0
-Aseliorus,creatures,221056598,650,300,470,20,13
+Aseliorus,creatures,221056598,650,300,472,21,14
 Asilvestrela,creatures,3088392790,7000,29,4343,3,3
-Astolo,creatures,3316252893,20000,14000,16929,7,7
+Astolo,creatures,3316252893,20000,14000,16417,6,6
 Astrothi,creatures,1633963092,100,25,70,5,5
 Athulyth,creatures,630414309,5500,1500,3250,4,4
 Aueko,creatures,135743452,800,45,378,36,34
-Auraron,creatures,974996277,4500,38,1578,100,94
-Avothius,creatures,3330029060,1000,350,767,3,3
-Axothan,creatures,507919749,1500,333,888,8,7
-Banishii,creatures,3653718638,30000,18000,24643,7,7
-Bäruw,creatures,3389342110,6500,4500,5500,4,4
+Auraron,creatures,974996277,4500,38,1583,100,94
+Avothius,creatures,3330029060,1000,950,975,2,2
+Axothan,creatures,507919749,2500,333,1246,9,9
+Banishii,creatures,3653718638,30000,18000,23833,6,6
+Bäruw,creatures,3389342110,7900,4500,5980,5,5
 Bazelii,creatures,2823384090,30000,20000,24375,4,4
 Beezu,creatures,1257197077,350,300,317,4,3
 Belluvaraptor,creatures,1663522510,100,50,75,2,2
 Bengon,creatures,1061036888,50,20,41,8,7
 Bolatra,creatures,2341553156,0,0,0,0,0
-Boreal Warden,creatures,1817843051,30000,7500,17658,40,35
+Boreal Warden,creatures,1817843051,30000,7500,18029,40,35
 Borenhir,creatures,2856940936,0,0,0,0,0
-Boskurro,creatures,2518682552,600,150,322,9,9
-Brequewk,creatures,414654303,150,65,95,4,4
+Boskurro,creatures,2518682552,600,150,325,8,8
+Brequewk,creatures,414654303,150,75,105,3,3
 Buff Eulopii,creatures,1078487243,2500,1250,1896,12,12
-Buukon,creatures,1560694948,200,100,132,5,5
-Caldonterrus,creatures,1008471767,30000,12500,20241,40,39
+Buukon,creatures,1560694948,200,100,140,4,4
+Caldonterrus,creatures,1008471767,30000,12500,20318,40,39
 Cantapodi,creatures,2035186900,0,0,0,0,0
-Capukoralu,creatures,3207621317,2600,2500,2533,4,3
+Capukoralu,creatures,3207621317,10000,2500,5033,3,3
 Cavengauu,creatures,3003740931,3000,500,1750,2,2
 Celeritas,creatures,4255014269,1000,1000,1000,1,1
 Cenicara,creatures,2255226141,0,0,0,0,0
-Chamei,creatures,779572997,1125,75,389,7,7
+Chamei,creatures,779572997,150,75,119,6,5
 Chisudo,creatures,4232336574,500,125,288,4,4
 Chromohege,creatures,2943946066,600,26,338,48,45
 Chrysos,creatures,1529561128,100,25,65,7,7
@@ -63,58 +63,58 @@ Cimidstik,creatures,3987557656,4000,400,2350,4,4
 Cimmabu,creatures,2318490879,1600,500,1050,2,2
 Cindrothar,creatures,344811087,7000,3500,5000,9,9
 Citrulantis,creatures,3231788876,400,250,325,2,2
-Clovilowper,creatures,817108738,6500,6000,6167,6,6
+Clovilowper,creatures,817108738,6000,6000,6000,5,4
 Colval,creatures,3474154727,0,0,0,0,0
 Coniferon,creatures,2819767550,4000,4000,4000,2,2
 Convarlia,creatures,390859306,1000,750,970,15,10
 Corsarlett,creatures,2454595179,0,0,0,0,0
-Corvurax,creatures,1078465578,180000,15000,103824,17,17
+Corvurax,creatures,1078465578,180000,20000,118250,20,20
 Cottol,creatures,369700652,0,0,0,0,0
 Crata Peretina,creatures,1061043993,500,450,475,2,2
-Cryptoth,creatures,227941317,2500,2500,2500,1,1
-Cucuerpum,creatures,1774792936,2000,1500,1750,2,2
+Cryptoth,creatures,227941317,3000,2500,2750,2,2
+Cucuerpum,creatures,1774792936,2000,1500,1850,4,4
 Cupuere,creatures,1012160441,1200,700,920,6,5
 Cuxena,creatures,813315114,4000,3500,3583,7,6
-Dabaemura,creatures,33431301,20000,11000,14833,4,3
+Dabaemura,creatures,33431301,20000,11000,16700,6,5
 Dalghara,creatures,2894020937,0,0,0,0,0
 Dalitil,creatures,3657783587,6000,6000,6000,1,1
 Danténos,creatures,1659509309,30000,4000,19594,9,9
-Deluumar,creatures,612652059,7500,500,3677,37,35
+Deluumar,creatures,612652059,7500,500,3694,37,34
 Demetyra,creatures,1701323375,2500,114,1414,23,22
 Denjzi,creatures,1910200942,70000,1500,26950,5,5
 Despisicle,creatures,2455787073,0,0,0,0,0
 Dieamarjla,creatures,2972915404,0,0,0,0,0
 Diesura,creatures,1813658118,100,100,100,2,2
 Diokrine,creatures,464998028,0,0,0,0,0
-Dioxikin,creatures,4111630214,60000,40000,48250,28,22
+Dioxikin,creatures,4111630214,70000,40000,50146,25,24
 Doragonix,creatures,1312187847,0,0,0,0,0
 Dowatt,creatures,1560897976,0,0,0,0,0
-Dragonixsauria,creatures,2106818161,550,10,203,3,3
+Dragonixsauria,creatures,2106818161,10,10,10,1,1
 Dunklaestus,creatures,2889288749,0,0,0,0,0
-Dyaelatura,creatures,3057650988,4000,250,1907,41,41
+Dyaelatura,creatures,3057650988,4000,250,1933,42,42
 Eigion Warden,creatures,526802794,15000,10000,13250,5,4
 Eiroca,creatures,542061040,5000,1500,3250,2,2
 Elarickkeir,creatures,1065557747,5500,3250,4417,3,3
-Embristiss,creatures,2066103728,2500,1500,2000,13,9
+Embristiss,creatures,2066103728,2000,1500,1938,12,8
 Emphines,creatures,1814916713,0,0,0,0,0
-Empiterium,creatures,2777766792,4000,4000,4000,1,1
-Enthomen,creatures,153033900,15000,4000,7343,30,29
-Equenix,creatures,1818505624,30000,6000,14333,3,3
-Erridea,creatures,2772903451,4000,2000,2625,4,4
+Empiterium,creatures,2777766792,0,0,0,0,0
+Enthomen,creatures,153033900,15000,4000,7481,28,27
+Equenix,creatures,1818505624,7000,6000,6667,4,3
+Erridea,creatures,2772903451,2500,2000,2167,3,3
 Eskarlor,creatures,1504080828,10000,10000,10000,1,1
 Etheralotus,creatures,3924907313,280000,280000,280000,1,1
-Eulopii,creatures,692851008,200,50,125,2,2
+Eulopii,creatures,692851008,50,50,50,1,1
 Euvias,creatures,1711812830,125,125,125,1,1
 Exotide,creatures,2626107837,1800,1800,1800,1,1
 Exterreri,creatures,258555915,200,150,175,8,6
-Fabráashé,creatures,3138918878,6500,2900,4517,33,28
-Faecalu,creatures,981356419,1500,70,763,43,42
+Fabráashé,creatures,3138918878,7000,2000,4614,35,33
+Faecalu,creatures,981356419,1500,70,763,41,40
 Fairiocris,creatures,1333224091,3000,1500,2110,5,5
-Felifaux,creatures,3106102904,6000,750,2679,12,12
+Felifaux,creatures,3106102904,6000,750,2704,13,13
 Felikxtrox,creatures,3322962266,0,0,0,0,0
-Fellisio,creatures,2253678801,8000,5000,6567,18,15
+Fellisio,creatures,2253678801,9000,2500,6182,11,11
 Fernifly,creatures,4115954527,0,0,0,0,0
-Ferrah,creatures,3791067651,500,500,500,1,1
+Ferrah,creatures,3791067651,0,0,0,0,0
 Firakai,creatures,1047147379,0,0,0,0,0
 Flamerir,creatures,1316580780,2000,900,1504,6,6
 Fleuralis,creatures,1224824870,0,0,0,0,0
@@ -124,82 +124,82 @@ Flixlit,creatures,2239307621,0,0,0,0,0
 Fluren,creatures,2657252298,4000,4000,4000,1,1
 Frigiboa,creatures,2559852389,250,200,217,4,3
 Frigilinx,creatures,2073059969,2500,666,1924,11,11
-Fuejin'Liya,creatures,3351922258,3000,357,1980,30,30
-Furnilixii,creatures,2121467432,1000,3,288,31,28
-Fyluf,creatures,2008238405,1500,7,702,35,35
-Fyranili,creatures,716725840,0,0,0,0,0
+Fuejin'Liya,creatures,3351922258,3000,357,1943,28,28
+Furnilixii,creatures,2121467432,1000,3,294,32,29
+Fyluf,creatures,2008238405,1500,7,705,35,35
+Fyranili,creatures,716725840,100,100,100,1,1
 Galeostra,creatures,3151169369,2400,350,1350,3,3
-Galiryn,creatures,2441749036,15000,9500,11026,60,54
+Galiryn,creatures,2441749036,14000,9500,10869,66,58
 Galtekron,creatures,1726764385,600,350,475,2,2
-Garra Warden,creatures,2103130912,20000,3000,12750,4,4
-Geogoff,creatures,1139691086,25000,200,14075,7,6
+Garra Warden,creatures,2103130912,14999,13000,13666,5,3
+Geogoff,creatures,1139691086,25000,19000,21000,6,4
 Geoptxina,creatures,3817366271,0,0,0,0,0
-Geortharoc,creatures,3750375696,17200,13000,15238,16,13
+Geortharoc,creatures,3750375696,17200,13000,15238,14,13
 Ghalgeya,creatures,3520008624,75,50,67,3,3
-Ghartokus,creatures,2358579145,20000,5500,13519,10,10
+Ghartokus,creatures,2358579145,20000,5500,14919,10,10
 Ghibli,creatures,1747273590,10000,1500,5750,2,2
-Gimon-Ogu,creatures,1904094891,25000,10000,17300,27,25
-Gloracus,creatures,1490419976,150,150,150,2,2
-Glovaucus,creatures,3577243306,4000,30,1750,59,59
+Gimon-Ogu,creatures,1904094891,25000,10000,17222,29,27
+Gloracus,creatures,1490419976,0,0,0,0,0
+Glovaucus,creatures,3577243306,4000,30,1755,58,58
 Glysgadota,creatures,438527165,10000,5000,6750,4,4
 Gnolrok,creatures,3056362248,4000,3000,3333,3,3
-Gobbatlin,creatures,994380089,45000,18000,25800,11,10
+Gobbatlin,creatures,994380089,45000,15000,25500,11,10
 Gobli,creatures,3940174222,0,0,0,0,0
-Golgaroth,creatures,850269161,8500,6600,7400,5,4
-Goreganthus,creatures,2128490690,15000,8000,11612,10,8
-Gorgonichus,creatures,3927512713,10000,2000,3600,6,5
-Goskogur,creatures,4289400655,20000,15500,17167,3,3
+Golgaroth,creatures,850269161,13000,6600,9320,5,5
+Goreganthus,creatures,2128490690,15000,8000,11390,12,10
+Gorgonichus,creatures,3927512713,10000,2000,3333,7,6
+Goskogur,creatures,4289400655,20000,16000,18000,2,2
 Gramoss,creatures,339366207,2000,400,933,3,3
-Grysallmog,creatures,3019708679,1500,166,861,25,24
+Grysallmog,creatures,3019708679,1500,166,854,24,23
 Gryvila,creatures,1906192071,3000,3000,3000,1,1
-Guardian Dragon,creatures,3167895172,2500,31,1218,10,9
+Guardian Dragon,creatures,3167895172,2500,31,1246,9,8
 Gurava,creatures,3972420174,0,0,0,0,0
-Gwiodama,creatures,1950232225,29999,15000,22500,4,4
-Gyroudus,creatures,1128942136,2600,2000,2278,11,9
+Gwiodama,creatures,1950232225,29999,13000,20600,5,5
+Gyroudus,creatures,1128942136,2600,2000,2250,10,8
 Haechionx,creatures,2052853976,1500,650,1075,2,2
-Halaqual,creatures,3322170370,1500,1500,1500,1,1
-Hallucinix,creatures,4072282669,9500,2000,5750,6,6
+Halaqual,creatures,3322170370,1500,1500,1500,2,2
+Hallucinix,creatures,4072282669,9500,2000,5200,5,5
 Haxaline,creatures,2407211215,2000,430,1336,5,5
-Hayrhinozh,creatures,700803277,17850,0,10239,37,37
-Hebitoa,creatures,3300998339,4500,13,1594,37,37
-Heiboktoruk,creatures,2546141989,4500,3500,3880,6,5
+Hayrhinozh,creatures,700803277,17850,3500,10695,36,35
+Hebitoa,creatures,3300998339,4500,13,1642,38,38
+Heiboktoruk,creatures,2546141989,4500,3500,3900,7,6
 Heisoteri,creatures,430994149,0,0,0,0,0
 Hellion Warden,creatures,1780826529,15000,7500,10222,10,9
 Hemokai,creatures,423760773,1000,33,534,6,6
-Hikorshi,creatures,761086411,500,500,500,1,1
-Hisolidium,creatures,981884356,4000,4000,4000,1,1
-Hushike,creatures,1423849499,200,25,88,4,4
-Hyboria,creatures,3685618688,5000,266,1834,46,44
-Hygos,creatures,2375691569,4000,31,1464,15,14
+Hikorshi,creatures,761086411,0,0,0,0,0
+Hisolidium,creatures,981884356,4000,1700,2850,2,2
+Hushike,creatures,1423849499,200,25,88,5,4
+Hyboria,creatures,3685618688,5000,266,1915,47,45
+Hygos,creatures,2375691569,3000,31,1182,13,11
 Ibetchi,creatures,690109158,15000,10000,12667,3,3
 Idrabark,creatures,906848851,8500,4500,6878,4,4
 Ikoran,creatures,2068715659,800,20,410,2,2
 Imeaorn,creatures,2195684534,666,83,304,17,15
 Imini,creatures,2698407754,1000,1000,1000,1,1
-Inkpujin,creatures,2727358760,5500,3500,4625,19,18
-Irdegarde,creatures,961099030,2500,2500,2500,1,1
+Inkpujin,creatures,2727358760,5500,3500,4647,18,17
+Irdegarde,creatures,961099030,2500,2500,2500,2,2
 Irizah,creatures,2486987983,3500,2500,3000,10,8
-Iztajuatl,creatures,2496619652,3000,2000,2512,8,8
+Iztajuatl,creatures,2496619652,3500,2000,2622,9,9
 Jabblebashhe,creatures,1430717364,2000,1000,1600,6,5
-Jeff,creatures,918247318,140000,95,50840,17,15
+Jeff,creatures,918247318,140000,95,47668,18,16
 Jetebene,creatures,452618318,500,500,500,1,1
 Jhiggo Jangl,creatures,3540206042,4000,4000,4000,1,1
 Jhiggo-Jangl,creatures,585834793,0,0,0,0,0
 Jotunhel,creatures,659908967,15000,7000,11000,2,2
-Kaegiszarr,creatures,2913536711,2500,1000,1716,27,22
+Kaegiszarr,creatures,2913536711,2500,650,1642,29,24
 Kaluaka,creatures,2670010279,2100,100,1260,5,5
-Kamigami,creatures,64767074,10000,2000,7590,22,20
-Kaminaru,creatures,1572812874,10000,2000,6667,9,9
+Kamigami,creatures,64767074,10000,1000,6421,30,29
+Kaminaru,creatures,1572812874,10000,2000,6397,17,17
 Karakro,creatures,3208585080,5000,2000,3500,2,2
 Kavouradis,creatures,3107663906,10000,4000,6279,13,12
 Kehmador,creatures,1385366644,100,100,100,1,1
-Kemoti,creatures,2102270591,100,100,100,1,1
-Kendyll,creatures,681270543,3800,250,1420,17,15
-Keruku,creatures,1740329728,260000,15000,126184,19,19
+Kemoti,creatures,2102270591,0,0,0,0,0
+Kendyll,creatures,681270543,3800,250,1500,16,14
+Keruku,creatures,1740329728,260000,15000,132738,21,21
 Khetheral,creatures,317812100,2564,50,566,8,7
 Khiku,creatures,898398905,0,0,0,0,0
-Khilutatra,creatures,1442526625,120000,30000,65714,7,7
-Khu'Vuk,creatures,805256425,8000,5500,6607,16,14
+Khilutatra,creatures,1442526625,75000,30000,54167,7,6
+Khu'Vuk,creatures,805256425,8000,5000,6500,17,15
 Kiiwin,creatures,1717985436,0,0,0,0,0
 Kiridian,creatures,320538470,0,0,0,0,0
 Knalriki,creatures,947796334,0,0,0,0,0
@@ -207,25 +207,25 @@ Kohikii,creatures,586374832,325,66,217,13,10
 Koini,creatures,1086659679,6500,6500,6500,1,1
 Koipise,creatures,1964117078,1299,50,464,9,9
 Konomushi,creatures,2367162447,5000,250,2250,3,3
-Korathos,creatures,93266546,3000,200,1381,38,32
+Korathos,creatures,93266546,3000,200,1380,38,32
 Koryser,creatures,563157194,300,50,167,3,3
 Kretśnik,creatures,4122814579,600,350,488,5,4
 Kriffin,creatures,1261846822,0,0,0,0,0
-Kriprik,creatures,132730647,100,100,100,1,1
+Kriprik,creatures,132730647,100,100,100,2,2
 Kyiki,creatures,917256555,850,33,331,22,20
-Lactarim,creatures,139882495,5000,3000,4200,11,10
-Laharpes,creatures,3155575423,6000,100,2578,75,75
-Laibonich,creatures,2071934502,1500,37,783,27,27
+Lactarim,creatures,139882495,5000,2000,3962,13,13
+Laharpes,creatures,3155575423,6000,100,2604,77,77
+Laibonich,creatures,2071934502,1500,37,780,26,26
 Lenarabu,creatures,2041937564,1500,71,680,17,17
-Lerachu,creatures,1509319419,0,0,0,3,0
+Lerachu,creatures,1509319419,8000,300,2867,3,3
 Leurimess,creatures,1363623478,3000,1600,2100,3,3
-Levoneh,creatures,641677990,5250,5250,5250,1,1
-Liskwyrm,creatures,149961743,10000,3600,6775,4,4
+Levoneh,creatures,641677990,0,0,0,0,0
+Liskwyrm,creatures,149961743,10000,3600,6380,5,5
 Lissiceous,creatures,177893898,0,0,0,0,0
-Lithumbra,creatures,2526351698,7000,6000,6188,13,8
-Lmakosauruodon,creatures,1091848273,580,500,552,4,4
+Lithumbra,creatures,2526351698,7000,6000,6188,12,8
+Lmakosauruodon,creatures,1091848273,550,500,525,2,2
 Lorolael,creatures,1320966344,0,0,0,0,0
-Lotremum,creatures,4076678486,6000,4000,4725,9,8
+Lotremum,creatures,4076678486,6000,4000,4930,11,10
 Lucensia,creatures,2110339740,2750,2750,2750,1,1
 Lure,creatures,1154353236,1500,1500,1500,1,1
 Lus-Adarch,creatures,2730962244,7000,7000,7000,1,1
@@ -235,104 +235,104 @@ Magnacetus,creatures,3851385845,9000,7000,7750,4,4
 Magnarothus,creatures,1898392880,40000,100,13533,3,3
 Maiueve,creatures,608070217,3000,2000,2250,5,4
 Malupiscis,creatures,4288956048,5000,100,2950,14,14
-Megalodystrix,creatures,3301064240,2500,1000,2023,15,14
+Megalodystrix,creatures,3301064240,2500,1500,2046,14,13
 Mekmek,creatures,542603510,2000,2000,2000,1,1
-Melantha,creatures,243814634,12000,5000,7318,11,11
-Menace,creatures,4182716541,5000,2500,3979,31,28
+Melantha,creatures,243814634,12000,5000,7550,10,10
+Menace,creatures,4182716541,5000,2500,3928,32,29
 Meorlark,creatures,3000515726,5000,4000,4611,9,9
-Miik,creatures,1555967782,150,50,100,5,4
-Mijusuima,creatures,1219367524,200000,115000,146870,31,23
+Miik,creatures,1555967782,100,50,83,4,3
+Mijusuima,creatures,1219367524,200000,115000,147692,33,26
 Militrua,creatures,72700825,500,3,238,10,10
 Minawii,creatures,849443548,2200,2000,2067,4,3
 Minthwyrm,creatures,1545682109,0,0,0,0,0
 Mobuushiy,creatures,4089529576,0,0,0,0,0
 Moemoea,creatures,1875312962,150,100,133,4,3
-Molangai,creatures,1513234865,500,225,369,4,4
+Molangai,creatures,1513234865,500,225,325,3,3
 Moluna,creatures,2242388991,20000,32,9844,3,3
-Momola,creatures,380525670,150,50,100,5,4
-Moonelle,creatures,112471180,1700,200,1013,28,26
+Momola,creatures,380525670,150,50,100,4,4
+Moonelle,creatures,112471180,2000,125,1066,30,30
 Mooslmossle,creatures,3333051886,6009,2000,4290,10,9
-Morcanix,creatures,499734167,3500,2021,2860,7,7
+Morcanix,creatures,499734167,3500,2021,2813,9,9
 Mordelium,creatures,916148188,2000,2000,2000,3,3
 Morinus,creatures,1104039376,150,125,138,2,2
-Morthorax,creatures,950867954,25000,12000,16469,34,32
-Mufolium,creatures,3039435486,12000,9000,10500,20,17
+Morthorax,creatures,950867954,25000,12000,16939,35,33
+Mufolium,creatures,3039435486,12000,9000,10526,22,19
 Muravil,creatures,3670952378,0,0,0,0,0
-Murlk,creatures,1916102055,100,50,67,3,3
-Mustegaryx,creatures,558366905,6000,3500,4222,18,16
+Murlk,creatures,1916102055,50,50,50,2,2
+Mustegaryx,creatures,558366905,6000,3500,4270,17,15
 Nachtskinhren,creatures,3006035313,0,0,0,0,0
-Nakamaska,creatures,4165225237,3500,1000,2250,2,2
-Nemni,creatures,318913820,10000,8500,9167,3,3
-Nimoona,creatures,667625923,550,100,288,4,4
+Nakamaska,creatures,4165225237,1000,1000,1000,1,1
+Nemni,creatures,318913820,10000,8000,8875,4,4
+Nimoona,creatures,667625923,400,100,250,2,2
 Nindyr,creatures,1344621247,100,100,100,2,2
 Noctivul,creatures,990460374,7000,6000,6500,2,2
-Noctla'Lune,creatures,1492280961,15000,2000,7954,46,41
-Nok'Tuun,creatures,1812155344,2500,1000,1754,15,13
+Noctla'Lune,creatures,1492280961,15000,2000,8165,48,43
+Nok'Tuun,creatures,1812155344,2500,1000,1787,17,15
 Nolumoth,creatures,3987087145,4500,4500,4500,1,1
 Norskogg,creatures,2455972360,2000,1400,1600,5,4
 Novus Warden,creatures,817175403,0,0,0,0,0
-Noxiouk,creatures,452529219,3500,1000,2375,4,4
-Noxulumen,creatures,2867871081,6000,2500,4491,30,28
-Nuciffracoccu,creatures,273507068,5555,4000,4852,3,3
+Noxiouk,creatures,452529219,3500,1000,2500,5,5
+Noxulumen,creatures,2867871081,6000,2500,4391,31,29
+Nuciffracoccu,creatures,273507068,5000,4000,4500,2,2
 Nyctoxon,creatures,230558286,15500,15500,15500,1,1
-Nymphasuchus,creatures,718371624,150,45,98,8,6
+Nymphasuchus,creatures,718371624,2000,45,676,9,9
 Nytoltalus,creatures,1739943169,100,50,82,5,5
 Nyxasolyx,creatures,3438503519,300,300,300,1,1
 Olatua,creatures,2418164442,0,0,0,0,0
 Opralegion,creatures,2028152613,4000,2500,3167,4,3
-OriOri,creatures,35411707,8000,1600,3825,16,16
-Ouratum,creatures,1275160757,6000,2500,4159,27,27
+OriOri,creatures,35411707,8000,1600,3719,18,18
+Ouratum,creatures,1275160757,6000,2500,4189,28,28
 Ovufu,creatures,1913939893,2000,90,1026,31,31
-Owa'Stryrus,creatures,284958324,350000,170000,240000,3,3
-Oxidaizen,creatures,3737472013,500,300,433,3,3
+Owa'Stryrus,creatures,284958324,200000,170000,185000,2,2
+Oxidaizen,creatures,3737472013,5000,500,2000,3,3
 Oxysenix,creatures,2151171190,10000,6500,8500,10,9
-Oxytalis,creatures,3026878263,3200,1000,2106,44,37
-Pacedegon,creatures,3838722157,22000,13000,17250,6,6
-Parahexilian,creatures,853354628,20000,14500,17611,9,9
-Paru-Gama,creatures,3769120835,10000,3500,7000,12,10
+Oxytalis,creatures,3026878263,3200,1500,2172,46,35
+Pacedegon,creatures,3838722157,22000,13000,16937,8,8
+Parahexilian,creatures,853354628,20000,14500,17750,10,10
+Paru-Gama,creatures,3769120835,10000,3500,6944,11,9
 Parux,creatures,1647074976,125,100,109,4,3
-Pentagloss,creatures,2350931095,65000,55000,60000,7,7
+Pentagloss,creatures,2350931095,70000,55000,61667,9,9
 Pernirex,creatures,323894085,0,0,0,0,0
-Pero,creatures,1310283117,50,50,50,2,2
-Phantaris,creatures,2764522833,50000,20000,35000,2,2
+Pero,creatures,1310283117,50,50,50,1,1
+Phantaris,creatures,2764522833,50000,20000,30000,3,3
 Phantejer,creatures,2383293369,4500,3000,3760,5,5
-Phugu,creatures,1902774305,750,17,360,24,23
+Phugu,creatures,1902774305,750,17,366,25,24
 Phyremia,creatures,750200088,700,350,525,2,2
-Pierry,creatures,3190036978,3000,1000,1704,13,13
+Pierry,creatures,3190036978,3000,1000,1762,12,12
 Pleuremiert,creatures,3287633223,3500,2000,2856,18,17
-Pliarys,creatures,3528400625,6000,3000,4500,2,2
-Plumetik,creatures,2963879343,30000,4000,15333,3,3
+Pliarys,creatures,3528400625,3000,3000,3000,1,1
+Plumetik,creatures,2963879343,13000,4000,9667,4,3
 Polymonstrum,creatures,574034376,429,25,161,5,4
-Prabiki,creatures,1574272606,100,100,100,2,2
+Prabiki,creatures,1574272606,100,100,100,1,1
 Prialoura,creatures,2091930292,20000,6000,13250,8,8
 Pterolythux,creatures,3092517920,500,500,500,1,1
 Puffwump,creatures,537009292,100,100,100,1,1
 Quezekel,creatures,4094252655,5500,3000,4000,3,3
 Qurugosk,creatures,71188578,6000,6000,6000,1,1
-Raiquazok,creatures,2112239004,1814,300,938,20,19
+Raiquazok,creatures,2112239004,1814,300,915,20,19
 Ralokai,creatures,2163097994,250,90,147,3,3
-Reeox,creatures,3936162150,9000,5000,6500,3,3
+Reeox,creatures,3936162150,9000,5000,7000,2,2
 Reverbelle,creatures,2319928879,0,0,0,0,0
-Reviiaton,creatures,858539838,110,25,77,13,12
+Reviiaton,creatures,858539838,178,25,85,12,12
 Ripirin,creatures,454057054,0,0,0,0,0
 Rorolo,creatures,1855462719,2000,1000,1500,2,2
 Rukig,creatures,204366104,2500,1000,1750,2,2
-Saikarie,creatures,1376345571,1200,190,797,3,3
+Saikarie,creatures,1376345571,1200,190,648,4,4
 Salrahn,creatures,1383937815,16500,2600,6646,7,6
 Sana'ata,creatures,1122961356,5000,5000,5000,1,1
-Sang Toare,creatures,2365262198,15000,10000,13042,16,12
+Sang Toare,creatures,2365262198,20000,5000,12265,18,17
 Sarchias,creatures,401938594,100,100,100,1,1
-Sarcosiris,creatures,3915859188,7500,437,2534,50,45
+Sarcosiris,creatures,3915859188,8000,437,2597,51,47
 Sar'Hingaro,creatures,857817478,0,0,0,0,0
 Saukuryn,creatures,571216029,13000,4500,9417,6,6
 Scrimpeii,creatures,2730586347,0,0,0,0,0
 Seradae,creatures,2076332385,0,0,0,0,0
-Shararook,creatures,2420144109,500,20,313,29,28
+Shararook,creatures,2420144109,500,20,309,29,28
 Sha'Rei,creatures,2556767746,400,100,200,3,3
 Shiyaro,creatures,1601509419,200,2,101,2,2
 Shro,creatures,674459495,250,100,183,3,3
 Sigmatox,creatures,3935070822,250000,200000,216000,6,5
-Skulderouge,creatures,823396002,2000,0,480,72,59
+Skulderouge,creatures,823396002,2000,0,484,76,61
 Slaiorn,creatures,3988803564,500,500,500,1,1
 Sleirnok,creatures,1695696723,2000,2000,2000,6,4
 Sochuri,creatures,274269499,100,25,72,6,5
@@ -340,20 +340,20 @@ Somnia Elus,creatures,1853846241,700000,450000,546667,4,3
 Squitico,creatures,1239956794,1000,1000,1000,2,2
 Starknol,creatures,2558802602,600,500,533,3,3
 Starlit,creatures,3895330116,0,0,0,0,0
-Stratifelis,creatures,3497221358,3000,400,1538,25,24
+Stratifelis,creatures,3497221358,3000,400,1546,27,26
 Sturbi,creatures,3058243627,2500,1800,2160,5,5
-Sylvesqual,creatures,2195983561,2500,2000,2188,5,4
-Syroudon,creatures,996687675,3000,1000,2040,6,5
-Taburúún,creatures,3646760571,1500,14,577,46,45
+Sylvesqual,creatures,2195983561,2500,2000,2188,6,4
+Syroudon,creatures,996687675,4500,272,2246,8,8
+Taburúún,creatures,3646760571,1500,14,570,45,43
 Taiyuelong,creatures,2188268553,5000,4000,4214,8,7
 Takamorath,creatures,3511713667,5000,2500,3750,2,2
-Tarakotu,creatures,113311991,3250,2000,2512,4,4
+Tarakotu,creatures,113311991,3250,2000,2683,3,3
 Taurolystris,creatures,1951075350,500,50,234,8,7
 Teinook,creatures,525019989,0,0,0,0,0
 Therimorse,creatures,3704372045,1000000000,4000,500002000,2,2
 Therokis,creatures,668156164,3000,2500,2750,2,2
-Therolachus,creatures,1358722074,50,25,42,3,3
-Thundrake,creatures,906047810,7000,1750,4157,30,29
+Therolachus,creatures,1358722074,50,25,38,2,2
+Thundrake,creatures,906047810,7000,2000,4252,28,27
 Thykallos,creatures,3664725427,1500,1500,1500,1,1
 Tohukos,creatures,2540391988,0,0,0,0,0
 Torcherouk,creatures,818698051,2000,900,1350,5,4
@@ -361,25 +361,25 @@ Tornir,creatures,1537628527,11000,11000,11000,1,1
 Traiboros,creatures,2077587686,2000,33,1001,10,10
 Trikylo,creatures,919936603,2500,1000,1750,6,6
 Trutholbyeva,creatures,1648050052,0,0,0,0,0
-Tsugae,creatures,2930246872,0,0,0,0,0
+Tsugae,creatures,2930246872,100,100,100,1,1
 Tundrik,creatures,3241216044,6000,4000,5000,2,2
-Turgeon,creatures,2771524389,1150,1000,1050,3,3
-Uleoum,creatures,3317381199,7000,4000,5625,4,4
+Turgeon,creatures,2771524389,1000,1000,1000,4,3
+Uleoum,creatures,3317381199,7000,4000,5800,5,5
 Umbraxi,creatures,1399787117,120000,6000,47000,3,3
-Undoli,creatures,1029331014,0,0,0,0,0
-Ura,creatures,353129178,8000,7000,7500,2,2
-Urzuk,creatures,186715514,5500,3000,4086,38,36
+Undoli,creatures,1029331014,4000,4000,4000,1,1
+Ura,creatures,353129178,8000,7000,7667,3,3
+Urzuk,creatures,186715514,4500,3000,3831,38,29
 Ushrumesh,creatures,3272961392,0,0,0,0,0
-Vahiaex,creatures,354300108,1678,106,811,24,24
+Vahiaex,creatures,354300108,1500,106,786,23,22
 Valkurse,creatures,1834294000,2500,433,1478,3,3
-Valkyrie,creatures,565850744,7500,50,2928,91,89
+Valkyrie,creatures,565850744,7500,50,2962,89,88
 Varskela,creatures,3820881618,0,0,0,0,0
-Vaumora,creatures,1695632338,350,33,154,22,18
-Veldys,creatures,101601802,7400,6000,6800,4,3
+Vaumora,creatures,1695632338,500,33,179,20,17
+Veldys,creatures,101601802,10500,7000,8300,3,3
 Veludorah,creatures,3934414304,1000,400,700,2,2
 Venatrox,creatures,223749264,300,100,183,4,3
 Venuella,creatures,565795690,3500,900,1980,5,5
-Veraiatrice,creatures,1929009845,4000,1700,2850,2,2
+Veraiatrice,creatures,1929009845,4000,1700,2900,3,3
 Verdant Warden,creatures,299461442,4500,1000,2833,3,3
 Verklixin,creatures,1284197053,350,225,275,3,3
 Verza,creatures,3148097976,150000,135000,142500,2,2
@@ -389,74 +389,74 @@ Viridex,creatures,803959791,4000,4000,4000,1,1
 Vivoltex,creatures,2378769681,3000,2000,2403,15,10
 Voletexius,creatures,2242455964,0,0,0,0,0
 Volnoirve,creatures,1568616873,15000,15000,15000,1,1
-Vorpalus,creatures,4261641455,7777,2000,5592,3,3
-Wewuix,creatures,2300604197,1300,500,806,9,8
+Vorpalus,creatures,4261641455,7000,2000,4500,2,2
+Wewuix,creatures,2300604197,1000,500,736,8,7
 Whispthera,creatures,2051165586,0,0,0,0,0
 Wixpectr'o,creatures,1361919997,7000,2200,4300,6,6
 Woodralone,creatures,3514529857,6000,25,4056,4,4
-Wuggawyrm,creatures,3698280871,1000,62,430,22,22
+Wuggawyrm,creatures,3698280871,750,62,390,21,20
 Wystora,creatures,1696354365,200,200,200,1,1
 Xeleviprex,creatures,2609401124,2500,500,1700,3,3
-Xenolif,creatures,2300606375,500,125,345,10,10
-Xeternos,creatures,695082395,2500,125,1336,56,55
-Xymorax,creatures,1554256632,80000,30000,60167,10,9
+Xenolif,creatures,2300606375,500,125,339,9,9
+Xeternos,creatures,695082395,2500,125,1393,58,58
+Xymorax,creatures,1554256632,80000,30000,63318,12,11
 Yama'tu,creatures,402224974,0,0,0,0,0
 Yeba'idi,creatures,24148962,2700,2700,2700,1,1
 Yenyasha,creatures,1276448715,500,500,500,1,1
-Yggdragstyx,creatures,1731464834,3000,125,1361,50,49
+Yggdragstyx,creatures,1731464834,3000,125,1354,51,50
 Yiepir,creatures,1921133141,100,0,45,8,8
 Yohsog,creatures,2235653727,0,0,0,0,0
-Zakaiodrak,creatures,1583906305,130000,70000,95667,64,54
-Zarrax,creatures,2913798301,5200,4500,4850,2,2
+Zakaiodrak,creatures,1583906305,120000,70000,94186,66,59
+Zarrax,creatures,2913798301,5200,3000,4233,3,3
 Zeoarex,creatures,2404914809,250,200,225,2,2
 Zethines,creatures,1116432712,500,25,219,15,15
 Zhelijin,creatures,3372751366,1000,760,880,2,2
-Zieti,creatures,1601468363,1100,1000,1033,4,3
+Zieti,creatures,1601468363,3000,1000,1620,5,5
 Zohdok,creatures,2104044718,1500,1500,1500,1,1
-Zokzis,creatures,3610335574,77000,45000,56167,7,6
+Zokzis,creatures,3610335574,0,0,0,7,0
 Zolbatros,creatures,710098862,2000,2000,2000,1,1
-Zoltraack,creatures,3047042369,2000,222,1561,31,30
+Zoltraack,creatures,3047042369,2000,222,1527,33,31
 Zoocuu,creatures,229640371,0,0,0,0,0
-Zwevealisk,creatures,3780390099,1000,850,925,2,2
-Aerix,plushies,960833928,15000,7500,10346,15,13
-Aerodon,plushies,1544692192,1000,7,346,53,52
+Zwevealisk,creatures,3780390099,1000,1000,1000,2,2
+Aerix,plushies,960833928,15000,5500,10067,17,15
+Aerodon,plushies,1544692192,1000,7,359,53,52
 Arcane,plushies,1956908369,1500,199,756,15,15
 Astral Quetzal,plushies,3484177977,5342,3000,3781,3,3
 Baby Dragon,plushies,3044295021,11000,900,4933,11,9
 Bear,plushies,3073706171,1000,1000,1000,6,4
-Bunny,plushies,3904191309,900,43,367,23,23
-Cat,plushies,412821926,1000,900,973,13,8
+Bunny,plushies,3904191309,900,43,361,22,22
+Cat,plushies,412821926,1000,900,970,13,7
 Catalyst,plushies,329263408,0,0,0,0,0
 Chick,plushies,2867943496,2500,100,1300,13,13
-Clover Blossom,plushies,237975140,20000,5000,12200,5,5
+Clover Blossom,plushies,237975140,20000,9000,14917,6,6
 Clownfish,plushies,619602145,0,0,0,0,0
 Coal,plushies,3280759319,500,250,388,4,4
 Cow,plushies,3969132435,20000,4500,10400,5,5
-Darkstar,plushies,82382441,1500,250,744,30,26
+Darkstar,plushies,82382441,1500,250,763,30,26
 Dolt,plushies,2503082310,0,0,0,0,0
 Dragon,plushies,1972070972,0,0,0,0,0
 Eclipse,plushies,2008427385,8000,2300,5100,3,3
-Egg Gobbler,plushies,75709868,29000,29000,29000,1,1
-Egg Shell,plushies,2369527321,20000,14000,16333,3,3
+Egg Gobbler,plushies,75709868,35000,29000,32000,2,2
+Egg Shell,plushies,2369527321,20000,14000,17300,5,5
 Eggy Snake,plushies,2946970397,4500,4000,4333,3,3
 Elemental,plushies,3091424947,2800,2000,2433,3,3
 Ember Spirit,plushies,3179816609,15000,10000,12500,2,2
 Euvatops,plushies,1217882483,1000,49,376,22,22
-Fox,plushies,3340053461,3000,1000,1650,4,4
+Fox,plushies,3340053461,3000,1000,1867,3,3
 Frost Dragon,plushies,2242592770,1500,1400,1450,2,2
-Ghost,plushies,700406893,500,6,276,11,11
+Ghost,plushies,700406893,500,6,254,10,10
 Ginger Snapper,plushies,2724481523,1000,470,837,8,6
 Golden Bulb,plushies,591599774,0,0,0,0,0
 Goldfish,plushies,3418120013,0,0,0,0,0
-Haunt Dragon,plushies,1791582931,19500,8000,11833,3,3
-Heart,plushies,2430862381,12000,6000,9833,8,6
+Haunt Dragon,plushies,1791582931,8000,600,3933,7,6
+Heart,plushies,2430862381,12000,9000,10286,10,7
 Heartsnake,plushies,3851747472,3000,3000,3000,1,1
 Horned Beetlefly,plushies,1317163616,100,90,95,2,2
-Hum,plushies,3313982169,3500,2500,3000,5,4
+Hum,plushies,3313982169,10000,10000,10000,1,1
 Icebreaker,plushies,2464639373,2500,1750,2125,2,2
 Ice Wolf,plushies,4254737810,3500,750,2562,4,4
 Jackrabbit,plushies,3641535535,0,0,0,0,0
-Jammy Slug,plushies,4231875323,15000,500,5058,25,25
+Jammy Slug,plushies,4231875323,17000,500,5537,26,26
 Knight,plushies,3927844131,2000,333,1229,8,8
 Knox,plushies,2569091797,5500,5000,5250,2,2
 Land,plushies,3651879363,550,2,295,13,13
@@ -467,26 +467,26 @@ Minty Wiggler,plushies,3787485956,1000,11,380,13,12
 Mo,plushies,2868796073,3500,3500,3500,1,1
 Mylo,plushies,2719445497,0,0,0,0,0
 Oceanwing,plushies,511710499,300,300,300,4,3
-Octroma,plushies,4043668920,15000,3833,9877,18,18
+Octroma,plushies,4043668920,15000,3833,9604,22,22
 Owl,plushies,1993554513,1000,14,329,13,13
 Palmtree,plushies,2311879116,0,0,0,0,0
-Partridge,plushies,3169865544,500,250,417,3,3
+Partridge,plushies,3169865544,500,250,375,2,2
 Pie Chomper,plushies,2686469634,2000,899,1633,6,6
-Pig-Lantern,plushies,3761838371,12000,12000,12000,1,1
+Pig-Lantern,plushies,3761838371,12000,10000,11000,3,3
 Rare,plushies,2790619969,0,0,0,0,0
 Reindeer,plushies,3703913034,0,0,0,0,0
 Rock,plushies,1814172370,500000,500000,500000,1,1
 Rod,plushies,2329951371,3000,3000,3000,2,2
-Rosevine,plushies,3794216926,10000,2000,4700,4,4
+Rosevine,plushies,3794216926,4500,2000,2933,3,3
 Sea,plushies,2562730551,1000,24,420,13,12
-Seal,plushies,979193075,500,500,500,6,4
+Seal,plushies,979193075,500,500,500,5,3
 Serpent,plushies,2948793940,0,0,0,0,0
 Sky,plushies,3965210933,1000,25,519,14,13
 Smore Cat,plushies,2184725256,10000,6000,8000,2,2
 Snowman,plushies,3318947645,20000,8000,12000,3,3
-Sparkler,plushies,915683538,0,0,0,0,0
+Sparkler,plushies,915683538,13500,13500,13500,1,1
 Springbok,plushies,365713855,1000,71,444,16,15
-Springram,plushies,3113428332,4000,200,1466,19,19
+Springram,plushies,3113428332,4000,200,1519,18,18
 Stick,plushies,202839839,500000,500000,500000,1,1
 Stitch Head,plushies,164855498,0,0,0,0,0
 Succulant,plushies,1167734707,0,0,0,0,0
@@ -494,146 +494,146 @@ Succulant / Lilypad,plushies,2733645436,0,0,0,0,0
 Swan,plushies,2206794740,6000,3400,4467,3,3
 Tannenbaum,plushies,4067519203,20000,17500,18750,2,2
 Vampire Bat,plushies,2208255164,0,0,0,0,0
-Void,plushies,2337018864,12000,58,4371,94,85
-Armored Wish Palette,palettes,2406776392,100,100,100,1,1
+Void,plushies,2337018864,11500,58,4114,96,85
+Armored Wish Palette,palettes,2406776392,0,0,0,0,0
 Blighted Shadow Palette,palettes,661796839,1000,800,958,8,6
-Bolt Strike Palette,palettes,1186016848,0,0,0,0,0
+Bolt Strike Palette,palettes,1186016848,20000,20000,20000,1,1
 Broken Hex Palette,palettes,2899647560,500000,500000,500000,1,1
 Bunny Burrow Palette,palettes,188954974,0,0,0,0,0
 Burning Blade Palette,palettes,2676387514,1000,833,916,2,2
-Campfire Palette,palettes,742146949,20000,2500,9479,8,8
+Campfire Palette,palettes,742146949,20000,2500,10648,9,9
 Candlelight Palette,palettes,1316237330,0,0,0,0,0
-Candy Corn Palette,palettes,893994118,150,15,105,3,3
+Candy Corn Palette,palettes,893994118,150,110,137,5,3
 Charcuterie Palette,palettes,470030728,0,0,0,0,0
-Charming Pearl Palette,palettes,4082901627,0,0,0,0,0
+Charming Pearl Palette,palettes,4082901627,15000,25,5042,3,3
 Clown Crest Palette,palettes,275726204,20000,5000,13000,3,3
 Colorful Fire Palette,palettes,892105739,0,0,0,0,0
-Coral Reef Palette,palettes,1154817362,0,0,0,0,0
-Cornucopia Palette,palettes,401675138,200,200,200,1,1
-Cranberry Palette,palettes,106581276,0,0,0,0,0
+Coral Reef Palette,palettes,1154817362,15000,15000,15000,1,1
+Cornucopia Palette,palettes,401675138,15000,200,7600,2,2
+Cranberry Palette,palettes,106581276,15000,15000,15000,1,1
 Crisp Smoke Signature Look,palettes,3734725790,0,0,0,0,0
 Cupid Palette,palettes,1326651240,0,0,0,0,0
-Cursed Night Palette,palettes,382150875,0,0,0,0,0
-Demon Palette,palettes,1086457801,650,325,492,3,3
+Cursed Night Palette,palettes,382150875,15000,15000,15000,1,1
+Demon Palette,palettes,1086457801,500,500,500,1,1
 Dune Palette,palettes,1654797310,1500,1500,1500,1,1
-Easter Egg Palette,palettes,227738492,5000,250,2083,3,3
+Easter Egg Palette,palettes,227738492,1000,50,375,5,4
 Enchanted Hatchery Palette,palettes,1476288939,0,0,0,0,0
-Enlightened Flame Palette,palettes,597185451,21900,5500,13700,2,2
+Enlightened Flame Palette,palettes,597185451,21900,5500,14133,3,3
 Exploding Flames Signature Look,palettes,1877359031,0,0,0,0,0
-Festive Surprise Palette,palettes,363878998,0,0,0,0,0
-Firework Palette,palettes,165833247,600,600,600,1,1
+Festive Surprise Palette,palettes,363878998,10000,10000,10000,1,1
+Firework Palette,palettes,165833247,20000,600,10300,2,2
 Fir Tree Forest Palette,palettes,1160854662,100,100,100,1,1
 Forest Camo Palette,palettes,118498714,0,0,0,0,0
-Forest Walk Palette,palettes,2138519178,100,100,100,1,1
-Forget-Me-Not Palette,palettes,1502373204,800,800,800,1,1
+Forest Walk Palette,palettes,2138519178,0,0,0,0,0
+Forget-Me-Not Palette,palettes,1502373204,800,50,350,3,3
 Fruit Salad Palette,palettes,1890993440,0,0,0,0,0
 Furry Coat Palette,palettes,557603233,100,100,100,1,1
 Gilded Clover Palette,palettes,1983536964,25000,25000,25000,1,1
 Glaring Material,palettes,2050439256,0,0,0,0,0
 Gleaming Abyss Signature Look,palettes,1903887196,10000,7000,9225,13,10
-Golden Gift Wrap Palette,palettes,824788263,10000,10000,10000,1,1
+Golden Gift Wrap Palette,palettes,824788263,20000,10000,15000,2,2
 Graveyard Ruins Palette,palettes,331420430,200,5,84,7,7
-Heartless Palette,palettes,1890082416,0,0,0,0,0
+Heartless Palette,palettes,1890082416,30000,30000,30000,1,1
 Heartmail Palette,palettes,3762446980,0,0,0,0,0
-Heartstruck Palette,palettes,556946426,300,300,300,1,1
+Heartstruck Palette,palettes,556946426,300,50,183,3,3
 Holiday Cheer Palette,palettes,563492301,0,0,0,0,0
 Holly Palette,palettes,266083598,5000,5000,5000,1,1
-Honey-Eyed Palette,palettes,1097995187,2000,2000,2000,1,1
+Honey-Eyed Palette,palettes,1097995187,20000,2000,11000,2,2
 Icicle Palette,palettes,1814853776,0,0,0,0,0
 Kaiju Material,palettes,1600810690,0,0,0,0,0
 Kawaii Palette,palettes,1364681103,0,0,0,0,0
 Land Sea Sky Palette,palettes,685143799,650,250,483,7,6
-Lucky Palette,palettes,1763193808,0,0,0,0,0
+Lucky Palette,palettes,1763193808,20000,20000,20000,1,1
 Lunar Tide Palette,palettes,1457333468,0,0,0,0,0
 Maelstrom Palette,palettes,163339608,0,0,0,0,0
 Magical Frogstep Material,palettes,3383056777,250000,200000,225000,2,2
-Matcha Palette,palettes,1707689462,300,4,85,16,14
+Matcha Palette,palettes,1707689462,150,4,60,17,14
 Material Override: Bone Rattle,palettes,1181107632,0,0,0,0,0
 Material Override: Concrete,palettes,55378852,300,300,300,1,1
 Material Override: Coral,palettes,859393036,2000,160,1240,4,4
-Material Override: Cracked Lava,palettes,1635127913,600,22,287,17,17
+Material Override: Cracked Lava,palettes,1635127913,600,22,277,18,18
 Material Override: Foil,palettes,569180182,1500,1500,1500,2,2
-Material Override: Forcefield,palettes,1368489417,8000,8000,8000,1,1
+Material Override: Forcefield,palettes,1368489417,0,0,0,0,0
 Material Override: Glacier [9],palettes,4198528794,1500,1500,1500,1,1
 Material Override: Glass,palettes,214127464,2000,666,1333,2,2
-Material Override: Glimmering Aegis,palettes,2940879502,15000,2000,7400,5,5
+Material Override: Glimmering Aegis,palettes,2940879502,15000,2000,7833,6,6
 Material Override: Granite,palettes,1013583467,950,75,495,5,5
 Material Override: Ice,palettes,1859921991,0,0,0,0,0
-Material Override: Masterful Clip,palettes,503674675,200000,150000,179375,9,8
+Material Override: Masterful Clip,palettes,503674675,250000,150000,190000,10,9
 Material Override: Sizzling Pyre,palettes,2979859082,250000,250000,250000,1,1
-Material Override: Western Waves,palettes,3743100113,110000,90000,100000,4,3
-Material Override: Whisper of Darkness,palettes,816317571,4500,2250,3667,3,3
-Material Override: Winged Razors,palettes,3219348854,22000,10000,14400,5,5
+Material Override: Western Waves,palettes,3743100113,110000,100000,105000,2,2
+Material Override: Whisper of Darkness,palettes,816317571,4500,2250,3667,4,3
+Material Override: Winged Razors,palettes,3219348854,22000,10000,13667,6,6
 Material Override: Wood,palettes,1901603587,5000,5000,5000,1,1
-Metallic Medal Palette,palettes,1906136326,200000,50000,137500,4,4
+Metallic Medal Palette,palettes,1906136326,250000,50000,175000,6,6
 Misty Rose Palette,palettes,259196379,0,0,0,0,0
 Mothman Palette,palettes,1725386711,2500,50,820,11,9
-Mylo And Jerry Palette,palettes,1631805117,35000,7500,20389,9,9
+Mylo And Jerry Palette,palettes,1631805117,40000,7500,21500,9,9
 Mylo Theme,palettes,3394010388,0,0,0,0,0
 Nature Palette,palettes,1070227442,0,0,0,0,0
 Nebula Color Palette,palettes,634206061,5000,4500,4929,9,7
 Nebula Palette,palettes,147398064,0,0,0,0,0
 Nucleic Acid Palette,palettes,2257540912,0,0,0,0,0
-Ocean Depths Palette,palettes,1933917707,0,0,0,0,0
+Ocean Depths Palette,palettes,1933917707,15000,15000,15000,1,1
 Oceanic Beach Palette,palettes,892359126,100,100,100,1,1
 Paradox Palette,palettes,1575110491,2250,2000,2125,2,2
 Pastel Rainbow Palette,palettes,1833319399,0,0,0,0,0
-Peachy Sands Palette,palettes,100490429,0,0,0,0,0
+Peachy Sands Palette,palettes,100490429,15000,15000,15000,1,1
 Pot'O Gold Palette,palettes,1447319943,0,0,0,0,0
 Pumpkin Spice Palette,palettes,1203063070,0,0,0,0,0
-Scrambled Palette,palettes,1209347150,0,0,0,0,0
-Seashell Fragments Palette,palettes,450120259,0,0,0,0,0
-Shell Bloom Palette,palettes,1840586934,5000,1000,3000,2,2
+Scrambled Palette,palettes,1209347150,20000,20000,20000,1,1
+Seashell Fragments Palette,palettes,450120259,20000,20000,20000,1,1
+Shell Bloom Palette,palettes,1840586934,20000,1000,8667,3,3
 Shining Material,palettes,281291217,0,0,0,0,0
-Signature Look: Ancestral Origin,palettes,2200515726,14000,812,6568,13,12
-Signature Look: Angelic's Follower,palettes,1830299352,2500,1500,1944,12,9
+Signature Look: Ancestral Origin,palettes,2200515726,14000,812,6528,11,11
+Signature Look: Angelic's Follower,palettes,1830299352,2000,1999,2000,13,7
 Signature Look: Boreal's Bane,palettes,3105686819,2500,1500,1958,6,6
 Signature Look: Chai Tea Latte,palettes,3838124974,2000,1000,1500,2,2
-Signature Look: Corrupt Obsidian,palettes,1075449079,5000,2500,3667,3,3
-Signature Look: Cyberpunk [6],palettes,1582973475,2500,375,1556,19,18
-Signature Look: Daffodil Dreams,palettes,2540911696,75000,75000,75000,1,1
+Signature Look: Corrupt Obsidian,palettes,1075449079,10000,2000,4875,4,4
+Signature Look: Cyberpunk [6],palettes,1582973475,2500,375,1553,20,19
+Signature Look: Daffodil Dreams,palettes,2540911696,100000,75000,87500,2,2
 Signature Look: Eigion's Follower,palettes,1311979159,2500,450,1670,22,19
 Signature Look: Fallen Echo,palettes,3383573360,2300,125,1099,25,25
 Signature Look: Fountain Of Life,palettes,1381265876,2500,300,1300,20,18
-Signature Look: Frostmaw,palettes,3085374752,800000,200000,500000,13,13
+Signature Look: Frostmaw,palettes,3085374752,700000,350000,500000,15,13
 Signature Look: Frozen,palettes,1025206221,5000,3000,4000,2,2
 Signature Look: Gleaming Iron,palettes,337015746,6500,4000,5000,11,8
 Signature Look: Glittering Wreath,palettes,3477686566,159000,75000,111333,3,3
 Signature Look: Glowing Tide,palettes,898791365,0,0,0,0,0
 Signature Look: Island,palettes,770191101,6000,6000,6000,1,1
 Signature Look: Leprechaun,palettes,507475401,10000,7000,8500,2,2
-Signature Look: Lunar Howling,palettes,1013677236,20000,15000,17500,2,2
-Signature Look: Mage's Curse,palettes,1513358925,3000,60,1722,25,24
+Signature Look: Lunar Howling,palettes,1013677236,20000,15000,18333,3,3
+Signature Look: Mage's Curse,palettes,1513358925,3000,60,1693,26,25
 Signature Look: Magma,palettes,200307154,5000,2500,3833,3,3
 Signature Look: Midnight's Wish,palettes,391472900,4000,4000,4000,1,1
-Signature Look: Nebula,palettes,2039556781,7500,4000,6167,3,3
+Signature Look: Nebula,palettes,2039556781,7500,4000,5750,4,4
 Signature Look: Neon Corals,palettes,1100039611,0,0,0,0,0
-Signature Look: Nocturnal Flame,palettes,3037806223,200000,190000,196667,4,3
+Signature Look: Nocturnal Flame,palettes,3037806223,230000,190000,209000,5,5
 Signature Look: Phantom,palettes,1769479043,2500,2500,2500,1,1
-Signature Look: Pulsar Star,palettes,702180630,3000,178,1792,20,19
-Signature Look: Spectral Tendril,palettes,2146517273,67000,25000,44032,35,31
+Signature Look: Pulsar Star,palettes,702180630,3000,178,1777,21,20
+Signature Look: Spectral Tendril,palettes,2146517273,60000,25000,43857,32,28
 Signature Look: Steampunk,palettes,1522083771,0,0,0,0,0
 Signature Look: Summer Shine,palettes,2950774052,11000,10000,10500,4,3
 Signature Look: Sunken Sea,palettes,1245789275,3000,2000,2400,5,5
-Signature Look: Thunderstorm,palettes,235217341,20000,5000,11722,10,9
+Signature Look: Thunderstorm,palettes,235217341,20000,5000,11722,9,9
 Signature Look: Titanic Aura,palettes,3465702853,0,0,0,0,0
 Signature Look: Trophy,palettes,964319833,0,0,0,0,0
-Signature Look: Twilight Glow,palettes,58731344,6000,3500,4700,6,5
+Signature Look: Twilight Glow,palettes,58731344,6000,4000,5100,7,5
 Signature Look: Vampire,palettes,700981774,6500,1500,4500,3,3
 Signature Look: Vibrant Present,palettes,2003398298,2500,1000,1575,13,12
-Signature Look: Violet Flame,palettes,2162972602,8000,1375,5480,18,16
-Signature Look: Viridian Fern,palettes,1136598226,7000,1495,3961,16,13
-Signature Look: Void Palette,palettes,1718114884,5500,40,2545,39,36
+Signature Look: Violet Flame,palettes,2162972602,8000,2250,5843,15,14
+Signature Look: Viridian Fern,palettes,1136598226,7000,1495,3821,17,14
+Signature Look: Void Palette,palettes,1718114884,7000,40,2776,40,38
 Signature Look: Whisper of Darkness,palettes,1862624394,5000,500,3333,3,3
-Signature Look: Whisper of Fate,palettes,1103050218,7000,1000,3443,22,21
+Signature Look: Whisper of Fate,palettes,1103050218,7000,1000,3554,21,21
 Signature Look: Wolfbane,palettes,2641497241,600000,350000,439286,7,7
-Signature Look: Zealot of Zohutek,palettes,1855127864,0,0,0,0,0
-Silver Ripple Material,palettes,252776068,100000,78500,84625,5,4
+Signature Look: Zealot of Zohutek,palettes,1855127864,350000,350000,350000,1,1
+Silver Ripple Material,palettes,252776068,100000,80000,90000,5,4
 Slate Material Override Palette,palettes,498022270,0,0,0,0,0
 Sleighbell Palette,palettes,1704733285,0,0,0,0,0
 Sochuri Palette,palettes,614353403,0,0,0,0,0
 Sonarian Material,palettes,1980118303,0,0,0,0,0
-Sparkling Eye Material,palettes,453791236,13000,117,5170,13,12
+Sparkling Eye Material,palettes,453791236,8500,117,4283,11,9
 Sparkling Skies Palette,palettes,1150628568,0,0,0,0,0
 Sunset Palette,palettes,389560969,0,0,0,0,0
 Super Felifaux Palette,palettes,2065323151,0,0,0,0,0
@@ -643,61 +643,61 @@ Super Korathos Palette,palettes,791831521,0,0,0,0,0
 Super Starlit Palette,palettes,2036686898,0,0,0,0,0
 Sweet Dream Palette,palettes,157557312,400,2,152,11,11
 Synthesize Material,palettes,4222442341,0,0,0,0,0
-The Hunt Palette,palettes,305151476,25000,20000,22000,6,5
-Theme: Aphrodite,palettes,1432447171,25000,12000,19250,4,4
+The Hunt Palette,palettes,305151476,43333,20000,27619,7,7
+Theme: Aphrodite,palettes,1432447171,25000,12000,17800,5,5
 Theme: Calacatta Marble,palettes,3597291551,3000,1000,1770,11,10
 Theme: Chocolate,palettes,3858792092,0,0,0,0,0
-Theme: Easter Bunny,palettes,300684309,7500,166,2159,27,27
-Theme: Ectoplasm,palettes,1325604215,5000,1000,2755,9,9
+Theme: Easter Bunny,palettes,300684309,7500,166,2183,29,29
+Theme: Ectoplasm,palettes,1325604215,5000,1000,2680,10,10
 Theme: Eggstravaganza,palettes,2840555292,20000,15000,18500,4,4
 Theme: Egg Yolk,palettes,1890080848,3000,2500,2833,3,3
 Theme: Gargoyle,palettes,1592209909,3000,1500,2167,3,3
 Theme: Heartsick,palettes,883954973,2000,83,936,14,14
-Theme: Star Rain,palettes,3822090689,3500,1000,2222,18,16
+Theme: Star Rain,palettes,3822090689,3500,1000,2170,17,15
 Theme: Trove of Hearts,palettes,4158065381,75000,20000,36778,9,9
-Tinted Palette,palettes,651713372,200,4,81,12,11
-Tulip Palette,palettes,122489077,1000,12,449,6,6
+Tinted Palette,palettes,651713372,200,4,76,14,13
+Tulip Palette,palettes,122489077,850,12,278,8,7
 Twilight Grove Palette,palettes,2068066114,130,130,130,1,1
 Twilight Palette,palettes,1274173100,150,150,150,1,1
 Undead Palette,palettes,66942778,1000,45,498,3,3
-Valentine's Bouquet Palette,palettes,751270934,5000,5000,5000,1,1
+Valentine's Bouquet Palette,palettes,751270934,20000,5000,12500,2,2
 Vibrance Palette,palettes,719290185,0,0,0,0,0
 Vivid Rainbow Palette,palettes,1562840838,0,0,0,0,0
 Volcanic Palette,palettes,403991731,0,0,0,0,0
-Warden's Blessing Palette,palettes,2057922615,300,30,181,4,4
+Warden's Blessing Palette,palettes,2057922615,300,30,141,3,3
 Warden's Curse Palette,palettes,154472485,366,8,195,24,24
 Witch's Brew Palette,palettes,1696415492,0,0,0,0,0
-Wraith Palette,palettes,1582191530,4000,4000,4000,1,1
+Wraith Palette,palettes,1582191530,8000,4000,6000,2,2
 Appearance Change Token,tokens,1031291912,200,0,88,34,33
 Blood Moon Summon Token,tokens,49557558,0,0,0,0,0
-Boosted Gacha Token,tokens,848960374,3000,55,1060,3,3
+Boosted Gacha Token,tokens,848960374,3000,55,1528,2,2
 Boosted Gacha Token,tokens,3293584273,0,0,0,0,0
 Christmas Present Token,tokens,3131930730,5000,5000,5000,1,1
-Death Gacha Token,tokens,1618042194,6000,3250,4772,22,16
+Death Gacha Token,tokens,1618042194,5000,3700,4721,23,14
 Earthquake Summon Token,tokens,3168880114,0,0,0,0,0
-Full Mission Unlock Token,tokens,1743010643,10000,4166,8646,10,8
-Galaxy Exploration Token,tokens,382956814,200,0,64,68,64
+Full Mission Unlock Token,tokens,1743010643,10000,1666,7604,9,8
+Galaxy Exploration Token,tokens,382956814,200,0,62,75,71
 Master Gacha Token,tokens,3705678565,0,0,0,0,0
 Material Override: Sand Cyclone,tokens,4186203341,0,0,0,0,0
-Max Growth Token,tokens,1600395790,1100,2,587,51,51
-Mecha Exploration Token,tokens,4113895670,100,0,32,64,59
-Monster Exploration Token,tokens,2704420263,300,0,127,27,26
-Partial Growth Token,tokens,756043605,500,0,218,27,27
-Partial Mission Unlock Token,tokens,399204046,6000,600,3025,4,4
-Photovore Exploration Token,tokens,1118782112,88,0,39,10,9
-Random Gacha Spin Token,tokens,220741093,175,8,92,2,2
-Random Trial Creature Token,tokens,404778117,78,0,38,46,42
-Recode Access Token,tokens,458514409,75000,0,36267,5,5
-Revive Token,tokens,316298537,1200,850,1014,57,43
-Session Gacha Token,tokens,105974253,200,0,50,47,44
+Max Growth Token,tokens,1600395790,1100,2,612,56,55
+Mecha Exploration Token,tokens,4113895670,100,0,33,61,56
+Monster Exploration Token,tokens,2704420263,300,0,137,30,29
+Partial Growth Token,tokens,756043605,500,0,202,32,32
+Partial Mission Unlock Token,tokens,399204046,6000,600,3420,5,5
+Photovore Exploration Token,tokens,1118782112,88,0,38,12,11
+Random Gacha Spin Token,tokens,220741093,175,150,162,2,2
+Random Trial Creature Token,tokens,404778117,78,0,36,49,44
+Recode Access Token,tokens,458514409,75000,0,41889,6,6
+Revive Token,tokens,316298537,1200,0,758,57,57
+Session Gacha Token,tokens,105974253,200,0,49,49,46
 Storm Bringer Token / Random Weather Token,tokens,2062113652,5000,5000,5000,1,1
-Strong Glimmer Token,tokens,1356338711,800,250,530,6,5
-Sweet Exploration Token,tokens,3491965707,400,15,185,31,28
-Thunderstorm Summon Token,tokens,1116867875,10000,10000,10000,1,1
+Strong Glimmer Token,tokens,1356338711,800,250,525,7,6
+Sweet Exploration Token,tokens,3491965707,600,10,191,35,33
+Thunderstorm Summon Token,tokens,1116867875,5000,5000,5000,4,3
 Trick or Treat Token,tokens,1924093185,3000,30,1697,6,6
 Valentine's Goody Bag Token,tokens,2388731334,0,0,0,0,0
-Volcanic Eruption Summon Token,tokens,1565200846,8000,5000,6000,4,3
-Weak Glimmer Token,tokens,793395503,200,28,133,12,11
-Zealot of Zuhotek,tokens,3516471180,0,0,0,0,0
+Volcanic Eruption Summon Token,tokens,1565200846,5000,4500,4857,9,7
+Weak Glimmer Token,tokens,793395503,250,0,133,17,16
+Zealot of Zuhotek,tokens,3516471180,350000,325000,337500,2,2
 Darkstar,plushes,796615728,0,0,0,0,0
 Shooms,currency,2138788752,0,0,0,43,34
