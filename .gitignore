@@ -1,5 +1,6 @@
-# Python virtual environments
+# Python files
 .env/
+__pycache__
 
 # Generated output files
 out/
